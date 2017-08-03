@@ -1,0 +1,107 @@
+﻿<Window x:Name="windowname"
+        x:Class="Wiefie.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wiefie"
+        mc:Ignorable="d"
+        Title="Wiefie" Height="270" Width="400"
+        Closing="Window_Closing">
+
+    <Grid HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,0,0,0">
+        <Label Content="Programmastatus:"
+               HorizontalAlignment="Right"
+               Margin="0,-100,150,0"
+               VerticalAlignment="Center" />
+
+        <Label x:Name="label1"
+               Content="Off" 
+               HorizontalAlignment="Left" 
+               Margin="150,-100,0,0" 
+               VerticalAlignment="Center" />
+
+        <Label Content="Netwerkstatus:"
+               HorizontalAlignment="Right"
+               Margin="0,-50,150,0"
+               VerticalAlignment="Center" />
+
+        <Label x:Name="label2"
+               Content="-" 
+               HorizontalAlignment="Left" 
+               Margin="150,-50,0,0" 
+               VerticalAlignment="Center" />
+
+        <Label Content="Hotspotstatus:"
+               HorizontalAlignment="Right"
+               Margin="0,0,150,0"
+               VerticalAlignment="Center" />
+
+        <Label x:Name="label3"
+               Content="-" 
+               HorizontalAlignment="Left" 
+               Margin="150,0,0,0" 
+               VerticalAlignment="Center" />
+
+        <Label x:Name="hotspotnaam"
+               Content="Hotspotnaam:"
+               HorizontalAlignment="Right"
+               Margin="0,50,150,0"
+               VerticalAlignment="Center" />
+
+        <TextBox x:Name="textbox1"
+                 HorizontalAlignment="Left"
+                 VerticalAlignment="Center"
+                 Margin="150,50,0,0"
+                 Width="100"
+                 Text="" />
+
+        <Label x:Name="hotspotwachtwoord"
+               Content="Hotspotwachtwoord:"
+               HorizontalAlignment="Right"
+               Margin="0,100,150,0"
+               VerticalAlignment="Center" />
+
+        <PasswordBox x:Name="textbox2"
+                     HorizontalAlignment="Left"
+                     VerticalAlignment="Center"
+                     Margin="150,100,0,0"
+                     Width="100"
+                     PasswordChar="*" />
+
+        <TextBox x:Name="textbox3"
+                     HorizontalAlignment="Left"
+                     VerticalAlignment="Center"
+                     Margin="150,100,0,0"
+                     Width="100"
+                     Visibility="Hidden"/>
+
+        <Button x:Name="buttonshow" 
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Width="40"
+                Content="Show" 
+                Margin="261,113,-30,12"
+                Click="buttonshow_Click"/>
+
+        <Button x:Name="button1"
+                Content="Turn on" 
+                HorizontalAlignment="Center" 
+                Margin="98,190,97,-34"
+                VerticalAlignment="Center" 
+                Width="76" 
+                Click="Button_Click" />
+        
+        <CheckBox x:Name="checkbox1"
+                  HorizontalAlignment="Left" 
+                  VerticalAlignment="Center"
+                  Margin="150,150,0,0" 
+                  Checked="checkbox1_Checked"
+                  Unchecked="checkbox1_Unchecked"/>
+
+        <Label Content="Default:"
+               HorizontalAlignment="Right"
+               Margin="0,150,150,0"
+               VerticalAlignment="Center" />
+    </Grid>
+</Window>

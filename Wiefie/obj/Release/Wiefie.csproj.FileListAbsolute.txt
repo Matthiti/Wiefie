@@ -1,0 +1,16 @@
+C:\Users\mjroe\documents\visual studio 2017\Projects\Wiefie\Wiefie\bin\Release\Wiefie.exe.config
+C:\Users\mjroe\documents\visual studio 2017\Projects\Wiefie\Wiefie\bin\Release\Wiefie.exe
+C:\Users\mjroe\documents\visual studio 2017\Projects\Wiefie\Wiefie\bin\Release\Wiefie.pdb
+C:\Users\mjroe\documents\visual studio 2017\Projects\Wiefie\Wiefie\bin\Release\System.Runtime.WindowsRuntime.dll
+C:\Users\mjroe\documents\visual studio 2017\Projects\Wiefie\Wiefie\bin\Release\System.Runtime.WindowsRuntime.xml
+C:\Users\mjroe\documents\visual studio 2017\Projects\Wiefie\Wiefie\obj\Release\Wiefie.csprojResolveAssemblyReference.cache
+C:\Users\mjroe\documents\visual studio 2017\Projects\Wiefie\Wiefie\obj\Release\MainWindow.g.cs
+C:\Users\mjroe\documents\visual studio 2017\Projects\Wiefie\Wiefie\obj\Release\App.g.cs
+C:\Users\mjroe\documents\visual studio 2017\Projects\Wiefie\Wiefie\obj\Release\Wiefie_MarkupCompile.cache
+C:\Users\mjroe\documents\visual studio 2017\Projects\Wiefie\Wiefie\obj\Release\Wiefie_MarkupCompile.lref
+C:\Users\mjroe\documents\visual studio 2017\Projects\Wiefie\Wiefie\obj\Release\MainWindow.baml
+C:\Users\mjroe\documents\visual studio 2017\Projects\Wiefie\Wiefie\obj\Release\Wiefie.g.resources
+C:\Users\mjroe\documents\visual studio 2017\Projects\Wiefie\Wiefie\obj\Release\Wiefie.Properties.Resources.resources
+C:\Users\mjroe\documents\visual studio 2017\Projects\Wiefie\Wiefie\obj\Release\Wiefie.csproj.GenerateResource.Cache
+C:\Users\mjroe\documents\visual studio 2017\Projects\Wiefie\Wiefie\obj\Release\Wiefie.exe
+C:\Users\mjroe\documents\visual studio 2017\Projects\Wiefie\Wiefie\obj\Release\Wiefie.pdb
